@@ -2,7 +2,7 @@
 Replication exercises on academic journals in economics
 
 
-1. Restuccia and Rogerson 
+I. Restuccia and Rogerson 
 
 "Policy Distortions and Aggregate Productivity with Heterogeneous Plants"
 
@@ -12,7 +12,7 @@ Note: A simple calibration exercise for a heterogeneous agent growth model. In t
 
 
 
-2. Guvenen and Smith (in progress)
+II. Guvenen and Smith (in progress)
 
 Inferring Labor Income Risk and Partial Insurance From Economic Choices
 
