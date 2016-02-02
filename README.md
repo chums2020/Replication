@@ -1,6 +1,7 @@
 # Replication
 Replication exercises on academic journals in economics
 
+
 1. Restuccia and Rogerson 
 
 "Policy Distortions and Aggregate Productivity with Heterogeneous Plants"
@@ -8,6 +9,7 @@ Replication exercises on academic journals in economics
 Review of Economic Dynamics, Volume 11, Issue 4, October 2008, Pages 707–720
 
 Note: A simple calibration exercise for a heterogeneous agent growth model. In the presence of heterogeneous plants (captured by varying productivity), misallocation of resources results in lower total factor productivity. 
+
 
 
 2. Guvenen and Smith (in progress)
