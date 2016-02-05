@@ -1,6 +1,7 @@
 # Replication
 Replication exercises on academic journals in economics
 
+Language used: Matlab
 
 I. Restuccia and Rogerson 
 
